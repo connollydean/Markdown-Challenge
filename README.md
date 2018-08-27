@@ -36,3 +36,8 @@ float average_amount(float * amounts, int size)
 1. first
 2. Second
 3. Third
+
+Bold | Italicized | Strikethrough
+--- | --- | ---
+**Bold Text** | *Italicized text* | ~~Strikethrough Text~~
+***
